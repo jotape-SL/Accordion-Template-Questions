@@ -1,8 +1,15 @@
 import React, { useState } from 'react';
 import { AiOutlineMinus, AiOutlinePlus } from 'react-icons/ai';
-import { data } from './data';
-const Question = () => {
-  return console.log(data);
+const Question = ({ title, info }) => {
+  return (
+    <article className='question'>
+      <header>
+        <h4 className='title'>{title}</h4>
+        <button className='btn'>btn</button>
+      </header>
+      <p>{info}</p>
+    </article>
+  );
 };
 
 export default Question;

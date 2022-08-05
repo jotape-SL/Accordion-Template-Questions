@@ -48,7 +48,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ## 📄 Licença
 
-Este projeto está sob a licença MIT - veja o arquivo [LICENSE.md](https://github.com/jotape-SL/Birthday-Reminder/blob/main/LICENSE) para detalhes.
+Este projeto está sob a licença MIT - veja o arquivo [LICENSE.md](https://github.com/jotape-SL/Accordion-Template-Questions/blob/main/LICENSE) para detalhes.
 
 ## ❤️ Agradecimento
 
